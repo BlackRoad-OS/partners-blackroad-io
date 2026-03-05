@@ -95,10 +95,7 @@ This directory contains automatically generated visual documentation.
 
 ## Generated Diagrams
 
-- **Architecture Diagram**: System component overview
-- **Workflow Diagrams**: CI/CD and automation flows
-- **Dependency Graph**: Package and module relationships
-
+- **Architecture Diagram Spec** (`architecture-spec.json`): Repository structure and configuration overview
 ## Automation
 
 Visual docs are automatically updated on:
